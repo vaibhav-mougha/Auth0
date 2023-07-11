@@ -10,7 +10,7 @@ const UserDetails = () => {
         <>
           <Box
             m={"auto"}
-            mt={"5rem"}
+            mt={"3rem"}
             textAlign={"center"}
             boxShadow={"rgba(0, 0, 0, 0.35) 0px 5px 15px"}
             p={"2rem"}
