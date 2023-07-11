@@ -1,6 +1,6 @@
 import React from "react";
-import { Box, Button, Flex, Image, Text } from "@chakra-ui/react";
-import LoginButton from "./LoginButton"
+import { Flex, Text } from "@chakra-ui/react";
+import LoginButton from "./LoginButton";
 
 const Navbar = () => {
   return (
@@ -19,13 +19,6 @@ const Navbar = () => {
           <Text p={"1rem"}>ABOUT</Text>
           <Text p={"1rem"}>SERVICES</Text>
           <Text p={"1rem"}>CONTACT</Text>
-          {isAuthenticated && (
-        <div>
-          <img src={user.picture} alt={user.name} />
-          <h2>{user.name}</h2>
-          <p>{user.email}</p>
-        </div>
-      )}
           <LoginButton />
         </Flex>
       </Flex>
