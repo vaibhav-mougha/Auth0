@@ -61,7 +61,7 @@
 
 ## Login Page :
 
-<h3>Users can login by clicking on the social icons without entering their details manually.</h3>
+<h3>Users can log in by clicking on the social icons without entering their details manually.</h3>
 <br/>
 <div align="center">
 <img width="30%" height="60%" src="https://github.com/vaibhav-mougha/Auth0/assets/107460451/f38c950f-0ff0-4562-b611-f93cc56f75d5.jpg" alt ="signup page" />
@@ -78,6 +78,8 @@
 
 
 Source Code(GitHub link):- https://github.com/vaibhav-mougha/Auth0
+<br/>
+Email:- moughavaibhav@gmail.com
 
 ## Show your support
 
